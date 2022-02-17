@@ -4,12 +4,8 @@
 
 ### Weather Image I
 
-![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame1.png)
+![](https://github.com/beyzayuksell/Weather-App/blob/main/app_images/1.JPG)
 
 ### Weather Image II
 
-![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame2.png)
-
-### Weather Image III
-
-![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame3.png)
+![](https://github.com/beyzayuksell/Weather-App/blob/main/app_images/2.JPG)
